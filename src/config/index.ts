@@ -5,8 +5,8 @@ export const ENV: EnvironmentType = 'development'
 
 const configList: IAppConfig[] = [{
 	env: "development",
-	// minmathiUri: 'https://dev.vividtranstech.com/minmathi/api/v1',
-	minmathiUri: 'http://13.127.136.47/minmathi/api/v1',
+	minmathiUri: 'https://dev.vividtranstech.com/minmathi/api/v1',
+	// minmathiUri: 'http://13.127.136.47/minmathi/api/v1',
 	// minmathiUri: 'http://localhost:8080/minmathi/api/v1',
 
 }]
